@@ -1,0 +1,34 @@
+segment_sources:
+  IE2A27EFD:
+    type: origin_type
+    relation: translation
+    language: sa
+  ID0390083:
+    type: origin_type
+    relation: translation
+    language: zh
+  I86861695:
+    type: origin_type
+    relation: translation
+    language: bo
+  I072AA324:
+    type: origin_type
+    relation: translation
+    language: en
+  I9477B696:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  f8a2be587b8a46bab9460d81a6a8c8ab:
+    IE2A27EFD: None
+    ID0390083: None
+    I86861695: 4fde77fbb0744959855e0c0d88da75ce
+    I072AA324: None
+    I9477B696: None
+  17787922f6e1476c8d1cda1b0ed4ce6d:
+    IE2A27EFD: None
+    ID0390083: None
+    I86861695: e1054f97b4a345828ea892af68a31a7e
+    I072AA324: None
+    I9477B696: None
